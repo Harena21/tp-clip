@@ -1,0 +1,16 @@
+# rapport gardé en local, hors du repo
+rapport/
+*.pdf
+*.tex
+*.aux
+*.log
+
+# données et résultats
+data/
+dataset_roco/
+TP_CLIP_resultats/
+*.pth
+*.tar
+
+.ipynb_checkpoints/
+__pycache__/
