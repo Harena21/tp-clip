@@ -12,3 +12,6 @@ TP_CLIP_resultats/
 
 .ipynb_checkpoints/
 __pycache__/
+
+# source LaTeX gardée en local
+*.tex
