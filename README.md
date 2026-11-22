@@ -2,7 +2,7 @@
 
 TP du cours Multi-modalité et IA générative (M2 VMI, Université Paris Cité).
 
-Je suis parti du tutoriel CLIP de C. Kurtz et X. Wei ([teaching_UPC_UFRMI](https://github.com/ckurtz/teaching_UPC_UFRMI)). Le début du notebook est ce tutoriel, lancé tel quel sur Colab. J'ai ajouté à la fin une partie TP qui répond aux quatre consignes :
+Je suis parti du tutoriel CLIP de M. C. Kurtz et X. Wei ([teaching_UPC_UFRMI](https://github.com/ckurtz/teaching_UPC_UFRMI)). Le début du notebook est ce tutoriel, lancé tel quel sur Colab. J'ai ajouté à la fin une partie TP qui répond aux quatre consignes :
 
 1. lancer les démos et mesurer ce qu'elles montrent ;
 2. comparer les 9 modèles CLIP sur CIFAR-100 et sur la recherche image/texte dans ROCO ;
