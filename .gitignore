@@ -1,9 +1,7 @@
-# rapport gardé en local, hors du repo
-rapport/
-*.pdf
-*.tex
+# fichiers temporaires LaTeX
 *.aux
 *.log
+*.out
 
 # données et résultats
 data/
