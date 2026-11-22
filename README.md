@@ -14,7 +14,7 @@ Sous chaque sortie, une cellule commente le résultat.
 ## Contenu
 
 - `TP_CLIP_ROCO.ipynb` : le notebook avec ses sorties
-- `rapport/` : le compte rendu en PDF et sa source LaTeX
+- `rapport/` : le compte rendu en PDF et ses figures
 - `requirements.txt` : les bibliothèques utilisées
 
 ## Relancer le notebook
